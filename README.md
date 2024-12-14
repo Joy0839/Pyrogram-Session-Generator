@@ -23,5 +23,5 @@ This tool generates a session string for Pyrogram, allowing you to authenticate 
 
 Click the button below to open this project directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Joy0839/Pyrogram-Session-Generator/blob/main)
+<a href='https://colab.research.google.com/drive/1CRrwn10XXURNXE00W0pOiTeE7Wr30hCg?usp=sharing'>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]</a> 
 
