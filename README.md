@@ -11,3 +11,9 @@ This tool generates a session string for Pyrogram, allowing you to authenticate 
 ## Requirements
 - Python 3.7 or later.
 - Telegram API credentials (`api_id` and `api_hash`). Obtain them from [my.telegram.org](https://my.telegram.org).
+
+## Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Joy0839/Pyrogram-Session-Generator.git
+   cd Pyrogram-Session-Generator
