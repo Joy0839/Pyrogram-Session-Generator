@@ -6,6 +6,7 @@ This tool generates a session string for Pyrogram, allowing you to authenticate 
 - Works with your Telegram API credentials.
 - Supports Google Colab or local Python environments.
 - Easy to use.
+- Click on this link and open a new notebook in <a href='https://colab.research.google.com/'>Google Colab</a>
 
 ## Requirements
 - Python 3.7 or later.
